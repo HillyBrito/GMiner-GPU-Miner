@@ -24,3 +24,23 @@ GMiner is a high-performance GPU miner that supports a wide range of algorithms 
 1. Extract the downloaded file.
 2. Run Setup.exe.
 
+#### 3. **Tags:**
+
+- `GMiner`
+- `GPU Miner`
+- `Mining`
+- `Ethereum`
+- `NVIDIA`
+- `AMD`
+- `Cryptocurrency`
+- `Mining Software`
+- `Ravencoin`
+- `KawPow`
+- `Ethash`
+- `Grin`
+- `Zcoin`
+- `Octopus`
+- `High Performance`
+
+---
+
